@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.9](https://github.com/WDaan/VueTorrent/compare/v1.5.8...v1.5.9) (2023-05-22)
+
+
+### Improvements
+
+* Add whenSeedingTimeReaches hint ([#826](https://github.com/WDaan/VueTorrent/issues/826)) ([2e5ddcb](https://github.com/WDaan/VueTorrent/commit/2e5ddcb319cb1c2d5d83098ea1c6b8e90e9b4ca9))
+
 ## [1.5.8](https://github.com/WDaan/VueTorrent/compare/v1.5.7...v1.5.8) (2023-05-21)
 
 
